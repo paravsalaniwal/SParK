@@ -3,7 +3,7 @@ description: CSA Big Project
 owner_name: SParK
 github_username: paravsalaniwal
 github_repo: "SParK"
-baseurl: "SParK"
+baseurl: "/SParK"
 remote_theme: jekyll/minima
 minima:
   social_links:
